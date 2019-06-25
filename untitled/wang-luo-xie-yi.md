@@ -1,7 +1,5 @@
 # 网络协议
 
-
-
 ### HTTPS 是怎么工作的
 
 * 简单的来说 HTTPS 的 S，就是 SSL/ TLS，SSL 是 TLS 的前身，基本上我们当成同一个 （S）看就行，换言之，HTTPS = HTTP + SSL / TLS，在 TCP 层到 HTTP 层之间加了一层 SSL。

@@ -1,7 +1,5 @@
 # 数据库
 
-
-
 ### redis
 
 * key-value存储系统

@@ -1,7 +1,5 @@
 # JavaScript
 
-
-
 ### 异步和同步、阻塞和非阻塞、并行和并发、事件驱动
 
 * [事件](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
