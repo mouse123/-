@@ -23,6 +23,8 @@
 * [浏览器缓存](https://www.infoq.cn/article/8VU-VCrhoxducaFPrNOL)
 * [前端监控](https://www.cnblogs.com/hustskyking/p/fe-monitor.html)
 * [web优化](https://www.infoq.cn/article/Xxyy8WZrWLwUlIF0*IxR)
+* [前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
+* [网站性能优化实战](https://juejin.im/post/5b0b7d74518825158e173a0c)
 * **浏览器资源监控**
   * window.performance.getEntriesByType\("resource"\)
   * window.performance.getEntriesByType\("navigation"\)
