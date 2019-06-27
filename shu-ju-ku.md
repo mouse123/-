@@ -32,6 +32,7 @@
 5. 数据转换
    * CAST\(Col as int\)
    * CAST\(Col as char\)
+6. 数据库[读写分离](https://cnodejs.org/topic/57e4c290bf6e60030ebceed2)
 
 ### 原子性,原子性操作
 
