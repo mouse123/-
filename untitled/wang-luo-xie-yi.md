@@ -16,6 +16,10 @@
 
 * [对称加密与非对称加密](https://www.zhihu.com/question/33645891/answer/57721969)
 
+### 安全相关
+
+* [开发安全相关](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
+
 ### 其他
 
 * https \(CERT\_HAS\_EXPIRED\)证书过期的错误请求
