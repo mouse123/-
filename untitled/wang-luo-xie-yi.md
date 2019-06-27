@@ -22,4 +22,5 @@
   * 解决方法:请求options添加改属性 rejectUnauthorized: false
 * gzip http传输
 * HTTP请求 host 需要dns域名解析，若解析失败，则导致无法发起http请求
+* [HTTP2](https://zhuanlan.zhihu.com/p/29609078)
 
