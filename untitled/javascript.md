@@ -75,4 +75,5 @@ $watch(a,function(newValue,oldValue){
 * [expo](https://docs.expo.io/versions/v32.0.0/)
 * [WebAssembly](https://www.ibm.com/developerworks/cn/web/wa-lo-webassembly-status-and-reality/index.html)
 * [Ant design](https://ant.design/index-cn)
+* [函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 
