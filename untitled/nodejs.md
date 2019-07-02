@@ -12,4 +12,6 @@
 * [携程-Node.js](https://www.infoq.cn/article/dDXK8AHUq_tNxXtfb4rE)
 * [制作一个Node命令行图像识别工具](https://www.chenng.cn/post/Node-command-line-tool-production.html)
 * [全干工程师](https://www.infoq.cn/article/CQCF0ETQVZVgE8_7dDrw)
+* [puppeteer](https://pptr.dev/)
+* [node-schedule 定时任务库](https://github.com/node-schedule/node-schedule#readme)
 
