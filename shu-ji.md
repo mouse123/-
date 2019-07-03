@@ -8,6 +8,7 @@
 * [linux内核](https://xinqiu.gitbooks.io/linux-insides-cn/content/Booting/linux-bootstrap-1.html)
 * [前端基础和原理书籍](https://segmentfault.com/a/1190000017072371#articleHeader5)
 * [前端发展史](https://juejin.im/post/5b5adc9b6fb9a04f9244555d#heading-17)
+* [程序员面试必备40问](https://www.infoq.cn/article/vZk7zxYi8qgGLVCUP_q7)
 
 
 
