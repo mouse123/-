@@ -12,4 +12,6 @@
 * [团队建立](https://www.infoq.cn/article/2kJpJl8*CPK3UZXHm2By)
 * [代码整洁之道](https://www.zcfy.cc/article/clean-code-javascript-readme-md-at-master-ryanmcdermott-clean-code-javascript-github-2273.html)
 * [开发经验](https://www.infoq.cn/article/BdlWzzfG2HTGr*qse5ze)
+* [稀土元素](http://energyskeptic.com/2019/high-tech-cannot-last-rare-earth-metals/)
+* [这是啥](https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html)
 
