@@ -1,5 +1,6 @@
 # 杂项
 
+* [没啥用](https://www.infoq.cn/article/KY2wijmVaOC5TquOH-f8)
 * [代码保护](https://www.infoq.cn/article/CizxjhQJT*9b69WVyEML)
 * [cocos游戏开发引擎](https://docs.cocos.com/creator/manual/zh/getting-started/coding-setup.html)
 * [数学视频](https://space.bilibili.com/88461692/video)
