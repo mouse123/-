@@ -77,4 +77,5 @@ $watch(a,function(newValue,oldValue){
 * [Ant design](https://ant.design/index-cn)
 * [函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 * [2019前端优化](https://www.infoq.cn/article/NAau0-Z7U1B2rKEZcWc8)
-* 
+* [JS优化汇总](https://www.infoq.cn/article/fxOmbxdROYkHQ_1tXGTE)
+
