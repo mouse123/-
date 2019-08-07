@@ -10,4 +10,5 @@
 
 * [服务器扩展](https://arcentry.com/blog/scaling-webapps-for-newbs-and-non-techies/)
 * [ngrok](https://blog.csdn.net/zhangguo5/article/details/77848658)
+* [服务器高可用](https://www.infoq.cn/article/weoXU*5PNc0XyRgO7k4j)
 
