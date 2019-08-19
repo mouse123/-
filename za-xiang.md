@@ -1,6 +1,7 @@
 # 杂项
 
-* * [前端文章列表](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
+* * [OOP problem](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7)
+* [前端文章列表](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
 * [哥本哈根目录](https://www.copenhagencatalog.org/)
 * [没啥用](https://www.infoq.cn/article/KY2wijmVaOC5TquOH-f8)
 * [代码保护](https://www.infoq.cn/article/CizxjhQJT*9b69WVyEML)
