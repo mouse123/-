@@ -1,5 +1,6 @@
 # 资料集
 
+* [计算机学习资料](https://www.infoq.cn/article/DN33KP6pV05Av9NzCjfX)
 * 开源技术类书籍[**`https://love2.io/`**](https://love2.io/) ****
 * 国内各大互联网公司技术架构的资料[`https://github.com/davideuler/architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product)\`\`
 * 面试资料[`https://github.com/CyC2018/Interview-Notebook`](https://github.com/CyC2018/Interview-Notebook)\`\`[`http://www.bslxx.com/a/mianshiti/bijingmianjing/2018/0611/1998.html`](http://www.bslxx.com/a/mianshiti/bijingmianjing/2018/0611/1998.html)\`\`[`http://www.bslxx.com/`](http://www.bslxx.com/)\`\`[`https://www.infoq.cn/article/gkUZZ_qQ6gCuoqpSAcw3`](https://www.infoq.cn/article/gkUZZ_qQ6gCuoqpSAcw3)\`\`
