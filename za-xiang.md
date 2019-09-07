@@ -1,5 +1,10 @@
 # 杂项
 
+* [rust函数式编程](hhttps://functional.works-hub.com/learn/functional-programming-jargon-in-rust-1b555)
+* [机器学习最底线数学](https://www.dataquest.io/blog/math-in-data-science/)
+* [代码风格](https://www.infoq.cn/article/3edXmPBbTgc4I2vf19xG)
+* [web图片优化](https://www.infoq.cn/article/gxV277O5ZZsR5w5er4pE)
+* [中级工程师](https://www.infoq.cn/article/3EzkoEAlgktTAm4Rz0pT)
 * [百度技术课堂](http://bit.baidu.com/)
 * [编译原理例子JS](https://the-super-tiny-compiler.glitch.me)
 * [函数式编程"缺点"](https://www.infoq.cn/article/b6gkx1crp2umU2*jIPQB)

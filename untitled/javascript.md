@@ -60,6 +60,7 @@ $watch(a,function(newValue,oldValue){
 
 ## 其他
 
+* [js编码技巧](https://www.infoq.cn/article/wF1PorTPQiW0*Q2Jc2XU)
 * [ES6](http://es6.ruanyifeng.com/)
 * [React](https://reactjs.org/)
 * [React-native](https://facebook.github.io/react-native/)
