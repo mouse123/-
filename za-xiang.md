@@ -1,5 +1,6 @@
 # 杂项
 
+* [Github Action](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
 * [rust函数式编程](hhttps://functional.works-hub.com/learn/functional-programming-jargon-in-rust-1b555)
 * [机器学习最底线数学](https://www.dataquest.io/blog/math-in-data-science/)
 * [代码风格](https://www.infoq.cn/article/3edXmPBbTgc4I2vf19xG)
