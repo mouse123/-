@@ -20,6 +20,7 @@
 
 ### 其他
 
+* [chrome 原理](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 * [浏览器缓存](https://www.infoq.cn/article/8VU-VCrhoxducaFPrNOL)
 * [前端监控](https://www.cnblogs.com/hustskyking/p/fe-monitor.html)
 * [web优化](https://www.infoq.cn/article/Xxyy8WZrWLwUlIF0*IxR)

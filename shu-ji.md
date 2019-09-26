@@ -1,5 +1,6 @@
 # 资料集
 
+* [技术面试手册](https://yangshun.github.io/tech-interview-handbook/introduction)
 * [计算机学习资料](https://www.infoq.cn/article/DN33KP6pV05Av9NzCjfX)
 * 开源技术类书籍[**`https://love2.io/`**](https://love2.io/) ****
 * 国内各大互联网公司技术架构的资料[`https://github.com/davideuler/architecture.of.internet-product`](https://github.com/davideuler/architecture.of.internet-product)\`\`
