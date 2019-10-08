@@ -20,6 +20,38 @@
 
 * [开发安全相关](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 
+### Socket.io
+
+socket.io 是一个基于websocket实现的前后端实时通讯框架，也对低版本浏览器做了封装。使用起来简单，方便。
+
+初次使用起来可能会比较迷糊，其实主要常用就几个方法，简单介绍一下。
+
+**客户端**
+
+io.connect\(url\) //客户端连接上服务器端
+
+**socket**.on\('eventName', msg =&gt; {}\) //客户端监听服务器端事件
+
+**socket**.emit\('eventName', msg\) //客户端向服务器端发送数据
+
+socket.disconnect\(\) //客户端断开链接
+
+**服务端**
+
+socket.on\('eventName', msg =&gt; {}\) //服务器端监听客户端emit的事件，事件名称可以和客户端是重复的，但是并没有任何关联。socket.io内置了一些事件比如connection，disconnect，**exit**事件，业务中错误处理需要用到。
+
+**socket**.emit\('eventName', msg\) //服务端各自的socket向各自的客户端发送数据
+
+**socket**.broadcast\('eventName', msg\) //服务端向其他客户端发送消息，不包括自己的客户端
+
+socket.**join**\(channel\) //创建一个频道（非常有用，尤其做分频道的时候，比如斗地主这种实时棋牌游戏）
+
+io.sockets.in\(channel\) //加入一个频道
+
+socket.broadcast.to\(channel\).emit\('eventName', msg\) //向一个频道发送消息，不包括自己
+
+io.sockets.adapter.rooms //获取所有的频道
+
 ### 其他
 
 * https \(CERT\_HAS\_EXPIRED\)证书过期的错误请求
