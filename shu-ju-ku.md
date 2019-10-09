@@ -2,6 +2,7 @@
 
 ### redis
 
+* [Redis注意事项](https://www.infoq.cn/article/yqUuS2qNRybILGrQUliv)
 * key-value存储系统
 * Redis运行在内存中但是可以持久化到磁盘
 * 五种数据类型：string（字符串），hash（哈希），list（列表），set（集合）及zset\(sorted set：有序集合\)
