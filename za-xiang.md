@@ -1,5 +1,6 @@
 # 杂项
 
+* [线上业务故障/事故的级别](http://www.5iops.com/html/2012/standard_0515/1.html)
 * [值得一看](https://www.infoq.cn/article/qQGefBRkdX8kdmd8U0iy)
 * [机器学习入门](https://www.blog.duomly.com/how-to-start-with-machine-learning/)
 * [Github Action](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
