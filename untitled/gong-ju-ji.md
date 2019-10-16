@@ -1,5 +1,6 @@
 # 工具集
 
+* [深入浅出webpack](https://webpack.wuhaolin.cn/)
 * [canvas原理](https://blog.csdn.net/milado_nju/article/details/7293012)
 * [jenkins自动化](https://jenkins.io/zh/)
 * [web开发路线](https://www.infoq.cn/article/DcIG3BX0DG*YrcyJCttC)
