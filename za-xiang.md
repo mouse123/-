@@ -1,5 +1,7 @@
 # 杂项
 
+* [前端自动化测试](https://www.infoq.cn/article/CfQH8JmuHZm8AJ5uOBII)
+* [有赞团队](https://tech.youzan.com/)
 * [线上业务故障/事故的级别](http://www.5iops.com/html/2012/standard_0515/1.html)
 * [值得一看](https://www.infoq.cn/article/qQGefBRkdX8kdmd8U0iy)
 * [机器学习入门](https://www.blog.duomly.com/how-to-start-with-machine-learning/)
