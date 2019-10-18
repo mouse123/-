@@ -1,5 +1,6 @@
 # 杂项
 
+* [前端大杂烩](https://juejin.im/post/5d387f696fb9a07eeb13ea60#heading-8)
 * [前端自动化测试](https://www.infoq.cn/article/CfQH8JmuHZm8AJ5uOBII)
 * [有赞团队](https://tech.youzan.com/)
 * [线上业务故障/事故的级别](http://www.5iops.com/html/2012/standard_0515/1.html)
