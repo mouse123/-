@@ -14,7 +14,6 @@
 * [前端100问](https://juejin.im/post/5d23e750f265da1b855c7bbe)
 * [大厂JS面试题](https://www.infoq.cn/article/eOs*VkQsd44hAgfbxcBk)
 * [大前端](https://static001.infoq.cn/resource/image/91/14/91110269578bbeb770cbca228e3d1114.jpg)
-* [5道有点难度的面试题](https://www.infoq.cn/article/0NUjpxGrqRX6Ss01BLLE)
 
 
 
