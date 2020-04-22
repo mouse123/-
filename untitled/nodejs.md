@@ -14,4 +14,5 @@
 * [全干工程师](https://www.infoq.cn/article/CQCF0ETQVZVgE8_7dDrw)
 * [puppeteer](https://pptr.dev/)
 * [node-schedule 定时任务库](https://github.com/node-schedule/node-schedule#readme)
+* [简单的 Node.js REST API](https://www.infoq.cn/article/W2NlDcVzU3YYqd0YFH6B)
 
