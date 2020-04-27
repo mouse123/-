@@ -33,6 +33,9 @@
 * [开发经验](https://www.infoq.cn/article/BdlWzzfG2HTGr*qse5ze)
 * [稀土元素](http://energyskeptic.com/2019/high-tech-cannot-last-rare-earth-metals/)
 * [这是啥](https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html)
+* [一个YouTube视频搬运工的教训](https://www.jianshu.com/p/c094164d3daf)
+* [前端的生产方式，10 年回顾和展望](https://www.infoq.cn/article/ul7HtRXOrkE9auRlYEPf)
+* [饿了么交易系统 5 年演化史](https://www.infoq.cn/article/eMqWQy6K2VsATJ3WtJLA)
 
 #### 能力提升
 
