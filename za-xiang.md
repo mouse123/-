@@ -37,6 +37,7 @@
 * [前端的生产方式，10 年回顾和展望](https://www.infoq.cn/article/ul7HtRXOrkE9auRlYEPf)
 * [饿了么交易系统 5 年演化史](https://www.infoq.cn/article/eMqWQy6K2VsATJ3WtJLA)
 * [IT证书](https://www.infoq.cn/article/CLrNhFjtCaoODH8fZ9eb)
+* [2020 Web 开发学习路线图：从前端，到全栈](https://www.infoq.cn/article/2byFJBbLbeLzlQ55hTQu)
 
 #### 能力提升
 
