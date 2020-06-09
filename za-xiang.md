@@ -39,6 +39,7 @@
 * [IT证书](https://www.infoq.cn/article/CLrNhFjtCaoODH8fZ9eb)
 * [2020 Web 开发学习路线图：从前端，到全栈](https://www.infoq.cn/article/2byFJBbLbeLzlQ55hTQu)
 * [计算机超全核心技术知识](https://xie.infoq.cn/article/4a3eb42bbac5bbd76b4b4700b)
+* [设计模式图解](https://refactoringguru.cn/design-patterns)
 
 #### 能力提升
 
