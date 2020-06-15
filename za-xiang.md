@@ -41,6 +41,8 @@
 * [计算机超全核心技术知识](https://xie.infoq.cn/article/4a3eb42bbac5bbd76b4b4700b)
 * [设计模式图解](https://refactoringguru.cn/design-patterns)
 * [饿了么表格bug](https://github.com/ElemeFE/element/issues/9916)
+* [NODESIGN](https://nodesign.dev/)
+* [视频头像替换](https://myvoiceyourface.com/)
 
 #### 能力提升
 
