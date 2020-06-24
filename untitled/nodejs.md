@@ -15,4 +15,5 @@
 * [puppeteer](https://pptr.dev/)
 * [node-schedule 定时任务库](https://github.com/node-schedule/node-schedule#readme)
 * [简单的 Node.js REST API](https://www.infoq.cn/article/W2NlDcVzU3YYqd0YFH6B)
+* [node查找内存泄露](https://www.arbazsiddiqui.me/a-practical-guide-to-memory-leaks-in-nodejs/)
 
