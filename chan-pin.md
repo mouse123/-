@@ -13,6 +13,8 @@
 * **AI类 应用落地**
 * 云共享打印
 * [工具集](https://juejin.im/post/5a2df418f265da43294dfe3a)
+* 创建一家大型互联网公司的最佳方法，就是帮助人们去做他们想做的事情，并使事情变得容易10倍。
+* [如何不靠运气变得富有](https://github.com/taosue/how-to-get-rich-without-getting-lucky/)
 
 
 
