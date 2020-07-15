@@ -43,7 +43,6 @@
 * [饿了么表格bug](https://github.com/ElemeFE/element/issues/9916)
 * [NODESIGN](https://nodesign.dev/)
 * [视频头像替换](https://myvoiceyourface.com/)
-* [公众号机器人](https://www.infoq.cn/article/gC1CKML304aJLU52LAuq)
 
 #### 能力提升
 
