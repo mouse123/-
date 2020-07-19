@@ -17,7 +17,7 @@
 * [如何不靠运气变得富有](https://github.com/taosue/how-to-get-rich-without-getting-lucky/)
 * 迭代方式去做一件事
 * 对杠杆要有了解
-
+* 
 
 
 ## todolist
