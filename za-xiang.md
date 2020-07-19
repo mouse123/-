@@ -43,6 +43,8 @@
 * [饿了么表格bug](https://github.com/ElemeFE/element/issues/9916)
 * [NODESIGN](https://nodesign.dev/)
 * [视频头像替换](https://myvoiceyourface.com/)
+* [公众号机器人](https://www.infoq.cn/article/gC1CKML304aJLU52LAuq)
+* [用 80 行 JavaScript 代码构建自己的语音助手](https://www.infoq.cn/article/oFYpxOJPZB3eIw6Ap0C3)
 
 #### 能力提升
 
