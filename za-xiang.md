@@ -46,6 +46,7 @@
 * [公众号机器人](https://www.infoq.cn/article/gC1CKML304aJLU52LAuq)
 * [用 80 行 JavaScript 代码构建自己的语音助手](https://www.infoq.cn/article/oFYpxOJPZB3eIw6Ap0C3)
 * [程序员摸鱼指南：副业成就未来](https://www.infoq.cn/article/VCOFWoOXRg30vVCZTmz5)
+* [鲜为人知的web api](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
 
 #### 能力提升
 
