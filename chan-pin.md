@@ -21,6 +21,7 @@
 * 实时地图，真实场景
 * 智能尿布，智能儿童产品
 * 智能镜子
+* [启动策略](https://blog.asmartbear.com/kung-fu.html)
 
 
 
