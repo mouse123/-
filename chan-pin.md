@@ -22,6 +22,7 @@
 * 智能尿布，智能儿童产品
 * 智能镜子
 * [启动策略](https://blog.asmartbear.com/kung-fu.html)
+* [推广链接](https://www.dingdanxia.com/hotlist)
 
 
 
