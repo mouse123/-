@@ -24,6 +24,7 @@
 * [启动策略](https://blog.asmartbear.com/kung-fu.html)
 * [推广链接](https://www.dingdanxia.com/hotlist)
 * [独立创业](https://news.ycombinator.com/item?id=25717006)
+* [克隆站](https://gourav.io/clone-wars)
 
 
 
