@@ -28,3 +28,9 @@ description: Interview prepare
   1. 封装成promise函数，并添加 callback和time，分别代表是否需要等待返回值和超时时间
   2. 重点: 每次发送websocket请求都将 该请求参数 添加到全局数组队列\( 项目是放在store \)中，得到在websocket得到返回值之后根据请求id获取到队列中的请求参数，触发callback函数。若超时，则在该队列中删除这条请求即可。
 
+#### websocket 浏览器不同页面通讯
+
+* 问题：用户双屏多开tab页登陆看设备列表，但是其中一个tab页数据无法实时更新。
+* 分析：websocket 根据用户id 只能是和服务端连接一次，上一个连接会被踢掉，但是登录使用cookie登录，可以多开几个tab页同时登录。
+* 解决：用localstorage 在浏览器不同tabs能共享机制，收到websocket值后写入localstorage，监听localstorage即可获取新数据。
+
