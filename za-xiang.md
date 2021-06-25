@@ -49,6 +49,7 @@
 * [鲜为人知的web api](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)
 * [软件工程](https://chriskiehl.com/article/thoughts-after-6-years)
 * [涨薪指南](https://www.infoq.cn/article/Xmdx9rhraqzHzbcT8PBQ)
+* [比特币设计](https://bitcoin.design/guide/)
 
 #### 能力提升
 
