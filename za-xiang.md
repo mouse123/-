@@ -50,6 +50,7 @@
 * [软件工程](https://chriskiehl.com/article/thoughts-after-6-years)
 * [涨薪指南](https://www.infoq.cn/article/Xmdx9rhraqzHzbcT8PBQ)
 * [比特币设计](https://bitcoin.design/guide/)
+* [软件开发经验总结](https://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html)
 
 #### 能力提升
 
