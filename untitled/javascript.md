@@ -80,4 +80,5 @@ $watch(a,function(newValue,oldValue){
 * [2019前端优化](https://www.infoq.cn/article/NAau0-Z7U1B2rKEZcWc8)
 * [JS优化汇总](https://www.infoq.cn/article/fxOmbxdROYkHQ_1tXGTE)
 * [deepJs](https://exploringjs.com/deep-js/toc.html)
+* [Webpack prefetch](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
 
