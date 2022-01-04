@@ -25,19 +25,18 @@
 * [推广链接](https://www.dingdanxia.com/hotlist)
 * [独立创业](https://news.ycombinator.com/item?id=25717006)
 * [克隆站](https://gourav.io/clone-wars)
+* [国外独立开发站](https://www.indiehackers.com)
 
 
 
 ## todolist
 
- 护理整合平台 carenobody
+&#x20;护理整合平台 carenobody
 
 * sql集成
 * 自动化集成
 * 前端页面添加
 * 说明书整合
-
-
 
 
 
