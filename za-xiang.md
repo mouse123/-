@@ -53,6 +53,7 @@
 * [软件开发经验总结](https://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html)
 * [我做系统架构的一些原则](https://coolshell.cn/articles/21672.html)
 * [我作为软件工程师的财务独立之路](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
+* [开发者工具录制功能](https://developer.chrome.com/docs/devtools/recorder/#replay)
 
 #### 能力提升
 
